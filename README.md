@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- ⚛️ React Developer
+
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyperflow)
+
 <!--
 **ymjoo12/ymjoo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
