@@ -2,7 +2,7 @@
 
 - ⚛️ React Developer
 
-![ymjoo12's github stats](https://github-readme-stats.vercel.app/api?username=ymjoo12&show_icons=true)
+<!-- ![ymjoo12's github stats](https://github-readme-stats.vercel.app/api?username=ymjoo12&show_icons=true) -->
 ![ymjoo12's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ymjoo12)
 
 <!--
