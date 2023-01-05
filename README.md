@@ -4,6 +4,7 @@
 - ⚛️ React
 
 <!-- ![ymjoo12's github stats](https://github-readme-stats.vercel.app/api?username=ymjoo12&show_icons=true) -->
+[![solvedac badge](https://solvedac-readme-badge.herokuapp.com/api/v1/badge?user=ymjoo12&compact=1)](https://github.com/2ykwang/solvedac-readme-badge)
 ![ymjoo12's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ymjoo12)
 
 <!--
