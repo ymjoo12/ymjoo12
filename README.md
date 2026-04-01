@@ -5,6 +5,7 @@
 
 <!-- ![ymjoo12's github stats](https://github-readme-stats.vercel.app/api?username=ymjoo12&show_icons=true) -->
 ![ymjoo12's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ymjoo12)
+[![Tokscale Stats](https://tokscale.ai/api/embed/ymjoo12/svg?compact=1)](https://tokscale.ai/u/ymjoo12)
 
 <!--
 **ymjoo12/ymjoo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
