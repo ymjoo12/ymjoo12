@@ -6,8 +6,8 @@
 
 Building LLM-powered developer tools, multi-tenant API routers, and self-hosted infrastructure.
 
-[![GitHub](https://img.shields.io/badge/ymjoo12-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ymjoo12)
-[![Email](https://img.shields.io/badge/ymjoo12%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:ymjoo12@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ymjoo12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](mailto:ymjoo12@naver.com)
 
 </div>
 
