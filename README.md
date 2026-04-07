@@ -89,13 +89,6 @@ Building LLM-powered developer tools, multi-tenant API routers, and self-hosted 
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ymjoo12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymjoo12&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ymjoo12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
