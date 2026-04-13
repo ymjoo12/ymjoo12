@@ -89,7 +89,16 @@ Building LLM-powered developer tools, multi-tenant API routers, and self-hosted 
 
 ### GitHub Stats
 
+<div align="center">
+
+[![ymjoo12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ymjoo12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/ymjoo12)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ymjoo12&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)](https://github.com/ymjoo12)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ymjoo12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![ymjoo12's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ymjoo12&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ymjoo12)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ymjoo12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
