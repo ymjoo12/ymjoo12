@@ -106,7 +106,7 @@ Building LLM-powered developer tools, multi-tenant API routers, and self-hosted 
 
 <div align="center">
 
-[![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=ymjoo12)](https://solved.ac/profile/ymjoo12)
+[![solved.ac](https://solvedac-readme-stats.vercel.app/api?handle=ymjoo12)](https://solved.ac/profile/ymjoo12)
 [![Tokscale Stats](https://tokscale.ai/api/embed/ymjoo12/svg?compact=1)](https://tokscale.ai/u/ymjoo12)
 
 </div>
