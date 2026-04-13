@@ -91,14 +91,12 @@ Building LLM-powered developer tools, multi-tenant API routers, and self-hosted 
 
 <div align="center">
 
-[![ymjoo12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ymjoo12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/ymjoo12)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ymjoo12&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)](https://github.com/ymjoo12)
+[![ymjoo12's GitHub Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ymjoo12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/ymjoo12)
+[![Top Languages](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=ymjoo12&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)](https://github.com/ymjoo12)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ymjoo12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![ymjoo12's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ymjoo12&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ymjoo12)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ymjoo12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -106,6 +104,9 @@ Building LLM-powered developer tools, multi-tenant API routers, and self-hosted 
 
 ### More
 
-![ymjoo12's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ymjoo12)
+<div align="center">
 
+[![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=ymjoo12)](https://solved.ac/profile/ymjoo12)
 [![Tokscale Stats](https://tokscale.ai/api/embed/ymjoo12/svg?compact=1)](https://tokscale.ai/u/ymjoo12)
+
+</div>
